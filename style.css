@@ -425,6 +425,11 @@ body{
     border-color: #2563eb;
     box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
+.privacy-desc{
+    font-size: 0.76rem;
+    padding: 0 3rem;
+    color: #777;
+}
 
 @media screen and (min-width: 640px) {
   .newsletter-left {
